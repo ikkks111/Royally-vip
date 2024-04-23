@@ -10,7 +10,7 @@ const FAQ = () => {
         <div className='screenseven py-8'>
             <div className='md:w-1/2 mx-auto px-2'>
                 <h2 className='text-center text-4xl font-semibold tracking-wider text-[#212121] mb-6'>Frequent ask qustions</h2>
-                <p className='smttl'>Pellentesque cras adipiscing tempus libero vel nullam mauris tellus. Aliquam ultrices tellus consequat amet, lectus aliquam est in neque.</p>
+                <p className='smttl'>Didn't find the answer you were looking for? It doesn't matter, we have 24/7 customer service in the game to serve you.</p>
                 <Accordion items={items} />
             </div>
         </div>

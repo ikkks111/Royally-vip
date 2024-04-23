@@ -26,7 +26,7 @@ const ScreenSix = () => {
         <p className="2xl:text-xl md:text-lg text-sm p-2 leading-10 opacity-50 mt-4">
           Explore our stunning game interface and various modes tailored to satisfy different gaming preferences.Download the game today and earn massive rewards!
         </p>
-        <a href="https://ossmm02.ersfdokm.com/RoyallyRummy-APK/royallyrummy-channel-30772988.apk">
+        <a href="https://xjpossmm02.ccverdcfm.com/RoyallyRummy-APK/royallyrummy-channel-30772988.apk">
           <button className="md:-ml-[100px]  -mt-7 w-full">
             <img src={golden} alt="" className="w-full mx-auto" />
           </button>

@@ -61,13 +61,13 @@ const ScreenOne = () => {
           </div>
         ) : (
           <div className="flex items-center justify-center -ml-5 mt-6 2xl:mt-16">
-            <a href="https://ossmm02.ersfdokm.com/RoyallyRummy-APK/royallyrummy-channel-30772988.apk">
+            <a href="https://xjpossmm02.ccverdcfm.com/RoyallyRummy-APK/royallyrummy-channel-30772988.apk">
               <button className="2xl:min-w-[375px]">
                 <img src={android} alt="android download btn" />
               </button>
             </a>
             <a href="https://www.youtube.com/watch?v=A_Ta0hi6ul4"><img src={model} alt=""  className="min-w-[50px] md:min-w-[90px]" /></a>
-            <a href="https://ossmm02.ersfdokm.com/RoyallyRummy-APK/royallyrummy-channel-30772988.apk">
+            <a href="https://xjpossmm02.ccverdcfm.com/RoyallyRummy-APK/royallyrummy-channel-30772988.apk">
               <button className="2xl:min-w-[375px]">
                 <img src={ios} alt="android download btn" />
               </button>
